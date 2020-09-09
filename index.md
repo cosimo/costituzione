@@ -14,6 +14,10 @@ tagline: varie versioni della Costituzione Italiana e confronti fra loro
   di legge costituzionale 2613-D ("riforma Boschi"), in caso di approvazione
   definitiva della riforma via referendum
 
+* **[2019-10-12](fulltext/2019-10-12)**: come *sarebbe* modificata dal testo
+  della legge costituzionale pubblicato sulla Gazzetta Ufficiale n. 240 del
+  12 ottobre 2019, in caso di approvazione definitiva via referendum del
+  20-21 settembre 2020.
 
 ### Confronti tra versioni
 
@@ -21,7 +25,12 @@ tagline: varie versioni della Costituzione Italiana e confronti fra loro
   Costituzione [2012-04-20](fulltext/2012-04-20) alla Costituzione
   [2016-01-20](fulltext/2016-01-20)
 
+* **[da Costituzione 2012 a modifiche GU 240 del 12 ottobre 2019](diff/2012-04-20/2019-10-12)**:
+  proposta di modifica dalla Costituzione [2012-04-20](fulltext/2012-04-20) alla
+  Costituzione [2019-10-12](fulltext/2019-10-12).
+
+
 ---
 
 I sorgenti ed i testi sottostanti a questo sito sono disponibili
-[su GitHub](https://github.com/zacchiro/costituzione).
+[su GitHub](https://github.com/cosimo/costituzione).
